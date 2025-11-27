@@ -1,0 +1,16 @@
+{
+  "url": "https://projects.propublica.org/coronavirus/bailouts/search?q=90210+medical&v=1",
+  "started_at": "2025-11-27T05:47:33.136064",
+  "loans": [],
+  "errors": [
+    {
+      "url": "https://projects.propublica.org/coronavirus/bailouts/search?q=90210+medical&v=1",
+      "timestamp": "2025-11-27T05:47:33.577629",
+      "error_type": "HttpError",
+      "message": "Ignoring non-200 response"
+    }
+  ],
+  "total_loans": 0,
+  "finished_at": "2025-11-27T05:47:33.581363",
+  "success": false
+}
