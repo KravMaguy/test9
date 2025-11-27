@@ -1,0 +1,1009 @@
+{
+  "search_query": "90210 medical",
+  "result_header": "First 100 loans",
+  "total_loans": 100,
+  "loans": [
+    {
+      "index": 1,
+      "recipient": "90210 SURGERY CENTER",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-surgery-center-5062167201",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of April 16, 2021",
+      "loan_amount": "$64,200",
+      "loan_amount_numeric": 64200.0,
+      "date_approved": "April 27, 2020"
+    },
+    {
+      "index": 2,
+      "recipient": "90210 HAIR DESIGN",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-hair-design-5356418304",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of June 29, 2022",
+      "loan_amount": "$3,807",
+      "loan_amount_numeric": 3807.0,
+      "date_approved": "Jan. 25, 2021"
+    },
+    {
+      "index": 3,
+      "recipient": "PHARMACY 90210 INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/pharmacy-90210-inc-6756998503",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Sept. 1, 2021",
+      "loan_amount": "$87,512",
+      "loan_amount_numeric": 87512.0,
+      "date_approved": "March 4, 2021"
+    },
+    {
+      "index": 4,
+      "recipient": "MK 90210 INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/mk-90210-inc-3772518604",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Aug. 23, 2021",
+      "loan_amount": "$86,723",
+      "loan_amount_numeric": 86723.0,
+      "date_approved": "March 17, 2021"
+    },
+    {
+      "index": 5,
+      "recipient": "90210 SURGERY CENTER",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-surgery-center-1684358605",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Oct. 4, 2021",
+      "loan_amount": "$60,055",
+      "loan_amount_numeric": 60055.0,
+      "date_approved": "March 13, 2021"
+    },
+    {
+      "index": 6,
+      "recipient": "MK 90210 INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/mk-90210-inc-4572397707",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of April 27, 2021",
+      "loan_amount": "$61,946",
+      "loan_amount_numeric": 61946.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 7,
+      "recipient": "PHARMACY 90210, INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/pharmacy-90210-inc-6274367710",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Dec. 23, 2020",
+      "loan_amount": "$86,680",
+      "loan_amount_numeric": 86680.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 8,
+      "recipient": "90210 LIMO INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-limo-inc-2817647710",
+      "location": "SAN DIEGO, CA",
+      "loan_status": "Forgiven as of May 6, 2021",
+      "loan_amount": "$27,367",
+      "loan_amount_numeric": 27367.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 9,
+      "recipient": "90210 MT SKIN CLINIC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-mt-skin-clinic-1324198209",
+      "location": "LOS ANGELES, CA",
+      "loan_status": "Forgiven as of Jan. 28, 2022",
+      "loan_amount": "$1,057",
+      "loan_amount_numeric": 1057.0,
+      "date_approved": "July 30, 2020"
+    },
+    {
+      "index": 10,
+      "recipient": "90210 REALTY INTERNATIONAL, INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-realty-international-inc-6599768009",
+      "location": "FORT LAUDERDALE, FL",
+      "loan_status": "",
+      "loan_amount": "$2,052",
+      "loan_amount_numeric": 2052.0,
+      "date_approved": "June 30, 2020"
+    },
+    {
+      "index": 11,
+      "recipient": "90210 LOVE & CARE INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-love-care-inc-9621977203",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Jan. 19, 2021",
+      "loan_amount": "$118,864",
+      "loan_amount_numeric": 118864.0,
+      "date_approved": "April 28, 2020"
+    },
+    {
+      "index": 12,
+      "recipient": "90210 SURGICAL ASSOCIATES LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-surgical-associates-llc-6965367404",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 7, 2021",
+      "loan_amount": "$35,731",
+      "loan_amount_numeric": 35731.0,
+      "date_approved": "May 15, 2020"
+    },
+    {
+      "index": 13,
+      "recipient": "90210 MEDIA MANAGER LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-media-manager-llc-6682418609",
+      "location": "Los Angeles, CA",
+      "loan_status": "Forgiven as of Oct. 26, 2021",
+      "loan_amount": "$11,366",
+      "loan_amount_numeric": 11366.0,
+      "date_approved": "March 23, 2021"
+    },
+    {
+      "index": 14,
+      "recipient": "90210 SURGICAL ASSOCIATES LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/90210-surgical-associates-llc-3257238402",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of March 3, 2022",
+      "loan_amount": "$30,885",
+      "loan_amount_numeric": 30885.0,
+      "date_approved": "Feb. 4, 2021"
+    },
+    {
+      "index": 15,
+      "recipient": "DSR LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/dsr-llc-1634167700",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of May 20, 2021",
+      "loan_amount": "$21,762",
+      "loan_amount_numeric": 21762.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 16,
+      "recipient": "MUSE NUTRITION, LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/muse-nutrition-llc-1906297404",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of July 9, 2021",
+      "loan_amount": "$212,884",
+      "loan_amount_numeric": 212884.0,
+      "date_approved": "May 5, 2020"
+    },
+    {
+      "index": 17,
+      "recipient": "MICHAEL APA DENTAL PARTNERSHIP",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/michael-apa-dental-partnership-2117517204",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Jan. 7, 2021",
+      "loan_amount": "$135,600",
+      "loan_amount_numeric": 135600.0,
+      "date_approved": "April 15, 2020"
+    },
+    {
+      "index": 18,
+      "recipient": "KARIN IRANI",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/karin-irani-8678688104",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of May 16, 2023",
+      "loan_amount": "$4,142",
+      "loan_amount_numeric": 4142.0,
+      "date_approved": "July 27, 2020"
+    },
+    {
+      "index": 19,
+      "recipient": "FANNY YACAMAN, DDS, MS, MSED",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/fanny-yacaman-dds-ms-msed-1416547404",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Oct. 26, 2021",
+      "loan_amount": "$4,017",
+      "loan_amount_numeric": 4017.0,
+      "date_approved": "May 4, 2020"
+    },
+    {
+      "index": 20,
+      "recipient": "ROBERT BENJAMIN POMPA, MD, INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/robert-benjamin-pompa-md-inc-9629217301",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of April 1, 2021",
+      "loan_amount": "$15,000",
+      "loan_amount_numeric": 15000.0,
+      "date_approved": "May 2, 2020"
+    },
+    {
+      "index": 21,
+      "recipient": "DENNIS H KIM MD INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/dennis-h-kim-md-inc-2914147410",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of April 1, 2021",
+      "loan_amount": "$75,421",
+      "loan_amount_numeric": 75421.0,
+      "date_approved": "May 6, 2020"
+    },
+    {
+      "index": 22,
+      "recipient": "GAIL PHILLIPS",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/gail-phillips-7752297310",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Jan. 7, 2021",
+      "loan_amount": "$20,833",
+      "loan_amount_numeric": 20833.0,
+      "date_approved": "April 30, 2020"
+    },
+    {
+      "index": 23,
+      "recipient": "PHILIPPE ATHUIL DDS A DENTAL CORP",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/philippe-athuil-dds-a-dental-corp-1280557407",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Oct. 25, 2021",
+      "loan_amount": "$65,047",
+      "loan_amount_numeric": 65047.0,
+      "date_approved": "May 4, 2020"
+    },
+    {
+      "index": 24,
+      "recipient": "EUGENE K KIM MD INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/eugene-k-kim-md-inc-4765567706",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Feb. 26, 2021",
+      "loan_amount": "$20,857",
+      "loan_amount_numeric": 20857.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 25,
+      "recipient": "RECONSTRUCTION UNLIMITED LLC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/reconstruction-unlimited-llc-8722727704",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 7, 2021",
+      "loan_amount": "$20,833",
+      "loan_amount_numeric": 20833.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 26,
+      "recipient": "BIJAN BOUTIQUES, LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/bijan-boutiques-llc-8811037101",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of June 3, 2021",
+      "loan_amount": "$351,512",
+      "loan_amount_numeric": 351512.0,
+      "date_approved": "April 15, 2020"
+    },
+    {
+      "index": 27,
+      "recipient": "BARRINGTON GROUP INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/barrington-group-inc-2750267207",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "",
+      "loan_amount": "$33,919",
+      "loan_amount_numeric": 33919.0,
+      "date_approved": "April 16, 2020"
+    },
+    {
+      "index": 28,
+      "recipient": "15600 JFK HOUSTON OWNER LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/15600-jfk-houston-owner-llc-2087167302",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of June 15, 2021",
+      "loan_amount": "$23,515",
+      "loan_amount_numeric": 23515.0,
+      "date_approved": "April 29, 2020"
+    },
+    {
+      "index": 29,
+      "recipient": "LILLIAN SASSON",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/lillian-sasson-2105048204",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of June 10, 2021",
+      "loan_amount": "$20,832",
+      "loan_amount_numeric": 20832.0,
+      "date_approved": "July 31, 2020"
+    },
+    {
+      "index": 30,
+      "recipient": "MAJESTIC CHAUFFEURED INTERNATIONAL LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/majestic-chauffeured-international-llc-2065958004",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Sept. 10, 2021",
+      "loan_amount": "$37,500",
+      "loan_amount_numeric": 37500.0,
+      "date_approved": "June 23, 2020"
+    },
+    {
+      "index": 31,
+      "recipient": "BRICK HR INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/brick-hr-inc-1690017303",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 7, 2021",
+      "loan_amount": "$21,841",
+      "loan_amount_numeric": 21841.0,
+      "date_approved": "April 28, 2020"
+    },
+    {
+      "index": 32,
+      "recipient": "JMO MEDIA",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/jmo-media-2398117709",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of May 5, 2021",
+      "loan_amount": "$20,832",
+      "loan_amount_numeric": 20832.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 33,
+      "recipient": "IDIGIRE INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/idigire-inc-6670608000",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "",
+      "loan_amount": "$104,165",
+      "loan_amount_numeric": 104165.0,
+      "date_approved": "June 30, 2020"
+    },
+    {
+      "index": 34,
+      "recipient": "HOLLYWOOD MOTION PICTURES",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/hollywood-motion-pictures-6326557210",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "",
+      "loan_amount": "$58,600",
+      "loan_amount_numeric": 58600.0,
+      "date_approved": "April 27, 2020"
+    },
+    {
+      "index": 35,
+      "recipient": "PETER J MAURICE PROPERTIES INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/peter-j-maurice-properties-inc-9198957700",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Nov. 17, 2021",
+      "loan_amount": "$18,843",
+      "loan_amount_numeric": 18843.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 36,
+      "recipient": "THE NOSH RESTAURANT LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/the-nosh-restaurant-llc-7005287107",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Feb. 17, 2021",
+      "loan_amount": "$208,100",
+      "loan_amount_numeric": 208100.0,
+      "date_approved": "April 14, 2020"
+    },
+    {
+      "index": 37,
+      "recipient": "MATTHEW T SIEDHOFF, MD",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/matthew-t-siedhoff-md-1808747404",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Jan. 14, 2021",
+      "loan_amount": "$10,268",
+      "loan_amount_numeric": 10268.0,
+      "date_approved": "May 5, 2020"
+    },
+    {
+      "index": 38,
+      "recipient": "BRUCE LEVINE",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/bruce-levine-2158207310",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Dec. 17, 2020",
+      "loan_amount": "$13,820",
+      "loan_amount_numeric": 13820.0,
+      "date_approved": "April 29, 2020"
+    },
+    {
+      "index": 39,
+      "recipient": "COVINA PROPERTIES, LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/covina-properties-llc-4593207205",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of March 22, 2021",
+      "loan_amount": "$58,905",
+      "loan_amount_numeric": 58905.0,
+      "date_approved": "April 27, 2020"
+    },
+    {
+      "index": 40,
+      "recipient": "NICHOLAS LAHAR",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/nicholas-lahar-8136397709",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Feb. 16, 2021",
+      "loan_amount": "$20,832",
+      "loan_amount_numeric": 20832.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 41,
+      "recipient": "GOLDENCHILD INTERNATIONAL",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/goldenchild-international-5666818900",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of March 14, 2022",
+      "loan_amount": "$15,625",
+      "loan_amount_numeric": 15625.0,
+      "date_approved": "April 30, 2021"
+    },
+    {
+      "index": 42,
+      "recipient": "TEREK KELLY",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/terek-kelly-6593208102",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Jan. 7, 2021",
+      "loan_amount": "$11,143",
+      "loan_amount_numeric": 11143.0,
+      "date_approved": "July 21, 2020"
+    },
+    {
+      "index": 43,
+      "recipient": "BEVARIS ALLIANCE INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/bevaris-alliance-inc-6997447104",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Jan. 17, 2023",
+      "loan_amount": "$172,100",
+      "loan_amount_numeric": 172100.0,
+      "date_approved": "April 14, 2020"
+    },
+    {
+      "index": 44,
+      "recipient": "BRISSONI US LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/brissoni-us-llc-8057667306",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 15, 2021",
+      "loan_amount": "$67,348",
+      "loan_amount_numeric": 67348.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 45,
+      "recipient": "VOILA NAIL SALON 2 INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/voila-nail-salon-2-inc-4492467301",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of May 24, 2021",
+      "loan_amount": "$82,250",
+      "loan_amount_numeric": 82250.0,
+      "date_approved": "April 29, 2020"
+    },
+    {
+      "index": 46,
+      "recipient": "DH FINANCING, INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/dh-financing-inc-4482427307",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of May 10, 2021",
+      "loan_amount": "$20,832",
+      "loan_amount_numeric": 20832.0,
+      "date_approved": "April 29, 2020"
+    },
+    {
+      "index": 47,
+      "recipient": "MICHAEL APA DENTAL PARTNERSHIP",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/michael-apa-dental-partnership-8899238407",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Aug. 16, 2021",
+      "loan_amount": "$100,821",
+      "loan_amount_numeric": 100821.0,
+      "date_approved": "Feb. 14, 2021"
+    },
+    {
+      "index": 48,
+      "recipient": "SUZY NEVINS",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/suzy-nevins-1060887410",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of July 27, 2021",
+      "loan_amount": "$9,505",
+      "loan_amount_numeric": 9505.0,
+      "date_approved": "May 3, 2020"
+    },
+    {
+      "index": 49,
+      "recipient": "CRISTOPHE BEVERLY HILLS LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/cristophe-beverly-hills-llc-9415937310",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Dec. 2, 2021",
+      "loan_amount": "$345,334",
+      "loan_amount_numeric": 345334.0,
+      "date_approved": "May 2, 2020"
+    },
+    {
+      "index": 50,
+      "recipient": "GEORGE BOCHORISHVILI DDS INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/george-bochorishvili-dds-inc-8195747707",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Oct. 20, 2021",
+      "loan_amount": "$9,490",
+      "loan_amount_numeric": 9490.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 51,
+      "recipient": "FARAH LAALY HEKMAT MD",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/farah-laaly-hekmat-md-3045667404",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Oct. 14, 2021",
+      "loan_amount": "$38,000",
+      "loan_amount_numeric": 38000.0,
+      "date_approved": "May 6, 2020"
+    },
+    {
+      "index": 52,
+      "recipient": "LARRY RING",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/larry-ring-3827287402",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Jan. 4, 2022",
+      "loan_amount": "$10,500",
+      "loan_amount_numeric": 10500.0,
+      "date_approved": "May 8, 2020"
+    },
+    {
+      "index": 53,
+      "recipient": "THIBIANT BEVERLY HILLS, LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/thibiant-beverly-hills-llc-2742547709",
+      "location": "Beverly Hills, CA",
+      "loan_status": "",
+      "loan_amount": "$218,630",
+      "loan_amount_numeric": 218630.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 54,
+      "recipient": "CANON GARDEN",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/canon-garden-3970797307",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 15, 2021",
+      "loan_amount": "$386,728",
+      "loan_amount_numeric": 386728.0,
+      "date_approved": "April 29, 2020"
+    },
+    {
+      "index": 55,
+      "recipient": "ANGAD RAJ INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/angad-raj-inc-8234967707",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Feb. 16, 2021",
+      "loan_amount": "$37,635",
+      "loan_amount_numeric": 37635.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 56,
+      "recipient": "21ST CENTURY DEVELOPMENT INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/21st-century-development-inc-3916887701",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Jan. 26, 2021",
+      "loan_amount": "$13,347",
+      "loan_amount_numeric": 13347.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 57,
+      "recipient": "EDWARD M. INES, D.D.S.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/edward-m-ines-d-d-s-9682577107",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Dec. 17, 2020",
+      "loan_amount": "$63,700",
+      "loan_amount_numeric": 63700.0,
+      "date_approved": "April 15, 2020"
+    },
+    {
+      "index": 58,
+      "recipient": "SOUTHERN CALIFORNIA RESEARCH LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/southern-california-research-llc-9581437210",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Oct. 21, 2021",
+      "loan_amount": "$109,387",
+      "loan_amount_numeric": 109387.0,
+      "date_approved": "April 28, 2020"
+    },
+    {
+      "index": 59,
+      "recipient": "STUART A LINDER MD INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/stuart-a-linder-md-inc-7494647206",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of May 3, 2021",
+      "loan_amount": "$56,178",
+      "loan_amount_numeric": 56178.0,
+      "date_approved": "April 28, 2020"
+    },
+    {
+      "index": 60,
+      "recipient": "FAIRHAVEN PLACE LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/fairhaven-place-llc-3133327701",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of March 25, 2021",
+      "loan_amount": "$9,927",
+      "loan_amount_numeric": 9927.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 61,
+      "recipient": "RYAN COLLIER",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/ryan-collier-2131257804",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 14, 2021",
+      "loan_amount": "$20,832",
+      "loan_amount_numeric": 20832.0,
+      "date_approved": "May 22, 2020"
+    },
+    {
+      "index": 62,
+      "recipient": "JACKSON ADEPT RESEARCH, INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/jackson-adept-research-inc-1829817705",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Aug. 5, 2021",
+      "loan_amount": "$236,740",
+      "loan_amount_numeric": 236740.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 63,
+      "recipient": "ORBINVEST CAPITAL, LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/orbinvest-capital-llc-8371627706",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Dec. 14, 2020",
+      "loan_amount": "$4,037",
+      "loan_amount_numeric": 4037.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 64,
+      "recipient": "DM REAL ESTATE SERVICES INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/dm-real-estate-services-inc-2550287709",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of March 22, 2021",
+      "loan_amount": "$20,625",
+      "loan_amount_numeric": 20625.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 65,
+      "recipient": "DIMITRIOS GIANNOUDIS",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/dimitrios-giannoudis-3188347802",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Aug. 26, 2021",
+      "loan_amount": "$17,784",
+      "loan_amount_numeric": 17784.0,
+      "date_approved": "May 26, 2020"
+    },
+    {
+      "index": 66,
+      "recipient": "KRITON ELECTRONICS INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/kriton-electronics-inc-6119577409",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Oct. 26, 2021",
+      "loan_amount": "$22,660",
+      "loan_amount_numeric": 22660.0,
+      "date_approved": "May 13, 2020"
+    },
+    {
+      "index": 67,
+      "recipient": "CANON OPTICIANS, INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/canon-opticians-inc-6659747402",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Nov. 17, 2021",
+      "loan_amount": "$67,284",
+      "loan_amount_numeric": 67284.0,
+      "date_approved": "May 15, 2020"
+    },
+    {
+      "index": 68,
+      "recipient": "WOLIN PRODUCTIONS INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/wolin-productions-inc-7354867701",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Feb. 16, 2021",
+      "loan_amount": "$16,920",
+      "loan_amount_numeric": 16920.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 69,
+      "recipient": "LEVIN AND OBERMAN",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/levin-and-oberman-3876967706",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of March 31, 2021",
+      "loan_amount": "$6,250",
+      "loan_amount_numeric": 6250.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 70,
+      "recipient": "ARENDA INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/arenda-inc-3739797108",
+      "location": "Beberly Hills, CA",
+      "loan_status": "Forgiven as of May 25, 2021",
+      "loan_amount": "$140,800",
+      "loan_amount_numeric": 140800.0,
+      "date_approved": "April 12, 2020"
+    },
+    {
+      "index": 71,
+      "recipient": "ON IT REALTY",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/on-it-realty-2003237401",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 9, 2021",
+      "loan_amount": "$25,139",
+      "loan_amount_numeric": 25139.0,
+      "date_approved": "May 5, 2020"
+    },
+    {
+      "index": 72,
+      "recipient": "3910 GIRARD PROPERTIES INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/3910-girard-properties-inc-4749437702",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 8, 2021",
+      "loan_amount": "$20,833",
+      "loan_amount_numeric": 20833.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 73,
+      "recipient": "CS RE ENTERPRISES, LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/cs-re-enterprises-llc-5463547307",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of Aug. 4, 2021",
+      "loan_amount": "$15,280",
+      "loan_amount_numeric": 15280.0,
+      "date_approved": "April 30, 2020"
+    },
+    {
+      "index": 74,
+      "recipient": "MAD RIVER PICTURES LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/mad-river-pictures-llc-2028507700",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Dec. 30, 2020",
+      "loan_amount": "$175,400",
+      "loan_amount_numeric": 175400.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 75,
+      "recipient": "DANI FARAJ AOUAD",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/dani-faraj-aouad-3436757709",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of July 29, 2021",
+      "loan_amount": "$1,599",
+      "loan_amount_numeric": 1599.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 76,
+      "recipient": "EUGENE L ROWE & ASSOCIATES",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/eugene-l-rowe-associates-7919907110",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of March 11, 2021",
+      "loan_amount": "$20,800",
+      "loan_amount_numeric": 20800.0,
+      "date_approved": "April 14, 2020"
+    },
+    {
+      "index": 77,
+      "recipient": "BEVERLY HILLS PRIME PROPERTIES",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/beverly-hills-prime-properties-4977817210",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of April 5, 2021",
+      "loan_amount": "$54,080",
+      "loan_amount_numeric": 54080.0,
+      "date_approved": "April 27, 2020"
+    },
+    {
+      "index": 78,
+      "recipient": "GRANITZ PHOTOGRAPHY, INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/granitz-photography-inc-7092307707",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of July 13, 2021",
+      "loan_amount": "$52,000",
+      "loan_amount_numeric": 52000.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 79,
+      "recipient": "AVANT PLASTIC SURGERY, INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/avant-plastic-surgery-inc-1006537202",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "",
+      "loan_amount": "$77,500",
+      "loan_amount_numeric": 77500.0,
+      "date_approved": "April 15, 2020"
+    },
+    {
+      "index": 80,
+      "recipient": "MATTHEW NEJAD DDS PC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/matthew-nejad-dds-pc-6184477301",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of May 24, 2021",
+      "loan_amount": "$19,797",
+      "loan_amount_numeric": 19797.0,
+      "date_approved": "April 30, 2020"
+    },
+    {
+      "index": 81,
+      "recipient": "DYLEILA LLC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/dyleila-llc-8370947303",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 7, 2021",
+      "loan_amount": "$23,333",
+      "loan_amount_numeric": 23333.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 82,
+      "recipient": "RAFFI V HOVSEPIAN, MD., INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/raffi-v-hovsepian-md-inc-7060237705",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Feb. 5, 2021",
+      "loan_amount": "$36,062",
+      "loan_amount_numeric": 36062.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 83,
+      "recipient": "NATHANIEL OWENS DBA LYNDEL OR WILSHIRE ORANGE HOTEL OR H",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/nathaniel-owens-dba-lyndel-or-wilshire-orange-hotel-or-h-2799707710",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of June 16, 2021",
+      "loan_amount": "$47,420",
+      "loan_amount_numeric": 47420.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 84,
+      "recipient": "KASRA SEDARATI M.D. INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/kasra-sedarati-m-d-inc-1677837700",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of April 21, 2021",
+      "loan_amount": "$12,500",
+      "loan_amount_numeric": 12500.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 85,
+      "recipient": "A PROFESSIONAL LAW CORPORATION",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/a-professional-law-corporation-6302557401",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Oct. 18, 2021",
+      "loan_amount": "$87,057",
+      "loan_amount_numeric": 87057.0,
+      "date_approved": "May 14, 2020"
+    },
+    {
+      "index": 86,
+      "recipient": "RE MEDIA SOLUTION",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/re-media-solution-2340397306",
+      "location": "Beverly HIlls, CA",
+      "loan_status": "Not Disclosed",
+      "loan_amount": "$20,208",
+      "loan_amount_numeric": 20208.0,
+      "date_approved": "April 29, 2020"
+    },
+    {
+      "index": 87,
+      "recipient": "BEHZAD SAEIDIAN",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/behzad-saeidian-3242528000",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Jan. 8, 2021",
+      "loan_amount": "$19,300",
+      "loan_amount_numeric": 19300.0,
+      "date_approved": "June 24, 2020"
+    },
+    {
+      "index": 88,
+      "recipient": "CANON CORP",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/canon-corp-6060427709",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of March 24, 2021",
+      "loan_amount": "$30,701",
+      "loan_amount_numeric": 30701.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 89,
+      "recipient": "VARON ACCOUNTANCY & CONSULTING, A PROFESSIONAL CORPORATION",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/varon-accountancy-consulting-a-professional-corporation-3392927404",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of July 6, 2021",
+      "loan_amount": "$8,626",
+      "loan_amount_numeric": 8626.0,
+      "date_approved": "May 7, 2020"
+    },
+    {
+      "index": 90,
+      "recipient": "TIFFANY DUNNER",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/tiffany-dunner-5989398300",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 7, 2021",
+      "loan_amount": "$2,500",
+      "loan_amount_numeric": 2500.0,
+      "date_approved": "Jan. 26, 2021"
+    },
+    {
+      "index": 91,
+      "recipient": "ADVANCED HAIR MEDICAL, P.C.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/advanced-hair-medical-p-c-2684007701",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Oct. 12, 2021",
+      "loan_amount": "$192,202",
+      "loan_amount_numeric": 192202.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 92,
+      "recipient": "LUKARO SALON INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/lukaro-salon-inc-3355898209",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of May 10, 2021",
+      "loan_amount": "$65,022",
+      "loan_amount_numeric": 65022.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 93,
+      "recipient": "MICHELLE LEE MD INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/michelle-lee-md-inc-4522027300",
+      "location": "Los Angeles, CA",
+      "loan_status": "Forgiven as of May 10, 2021",
+      "loan_amount": "$4,750",
+      "loan_amount_numeric": 4750.0,
+      "date_approved": "April 29, 2020"
+    },
+    {
+      "index": 94,
+      "recipient": "JACK HOLLANDER &#X26; ASSOCIATES, INC.",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/jack-hollander-x26-associates-inc-9850847704",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of June 22, 2021",
+      "loan_amount": "$15,500",
+      "loan_amount_numeric": 15500.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 95,
+      "recipient": "LAWRENCE M. KOPLIN M.D. A MEDICAL CORPORATION",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/lawrence-m-koplin-m-d-a-medical-corporation-8645777104",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Aug. 19, 2021",
+      "loan_amount": "$82,455",
+      "loan_amount_numeric": 82455.0,
+      "date_approved": "April 15, 2020"
+    },
+    {
+      "index": 96,
+      "recipient": "BELLA N HARMONY",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/bella-n-harmony-1938008301",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Aug. 13, 2021",
+      "loan_amount": "$9,850",
+      "loan_amount_numeric": 9850.0,
+      "date_approved": "Jan. 20, 2021"
+    },
+    {
+      "index": 97,
+      "recipient": "JAY S. ORRINGER, M.D., A PROFESSIONAL CORPORATION",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/jay-s-orringer-m-d-a-professional-corporation-5489567202",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Jan. 8, 2021",
+      "loan_amount": "$145,000",
+      "loan_amount_numeric": 145000.0,
+      "date_approved": "April 27, 2020"
+    },
+    {
+      "index": 98,
+      "recipient": "WEST BEVERLY HILLS, INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/west-beverly-hills-inc-8584427306",
+      "location": "Beverly Hills, CA",
+      "loan_status": "Forgiven as of May 11, 2021",
+      "loan_amount": "$20,977",
+      "loan_amount_numeric": 20977.0,
+      "date_approved": "May 1, 2020"
+    },
+    {
+      "index": 99,
+      "recipient": "CRYPTO JEWELRY INC",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/crypto-jewelry-inc-2878118105",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Feb. 25, 2021",
+      "loan_amount": "$13,898",
+      "loan_amount_numeric": 13898.0,
+      "date_approved": "July 13, 2020"
+    },
+    {
+      "index": 100,
+      "recipient": "P&R",
+      "detail_url": "https://projects.propublica.org/coronavirus/bailouts/loans/p-r-8350597308",
+      "location": "BEVERLY HILLS, CA",
+      "loan_status": "Forgiven as of Sept. 7, 2021",
+      "loan_amount": "$7,958",
+      "loan_amount_numeric": 7958.0,
+      "date_approved": "May 1, 2020"
+    }
+  ],
+  "errors": [],
+  "parsed_at": "2025-11-27T05:50:07.859277"
+}
